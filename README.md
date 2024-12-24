@@ -12,11 +12,8 @@ The main goal is to:
 3. Annotate the video with bounding boxes and labels for all detected objects.
 
 The output is an annotated video that visually displays the identified objects, providing valuable insights into the video's content.
-WhatsApp Video 2024-12-23 at 23.47.01.mp4
-1. Upload your video file:
-   ![Upload Video](Gemini-video-analysis/WhatsApp Video 2024-12-23 at 23.47.01.mp4_"upload")
-
----
+Output video:
+   ![Output Video](Gemini-video-analysis/video.mp4_upload")
 
 ## **Features**
 
