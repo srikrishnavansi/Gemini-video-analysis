@@ -13,7 +13,7 @@ The main goal is to:
 
 The output is an annotated video that visually displays the identified objects, providing valuable insights into the video's content.
 Output video:
-   ![Output Video](Gemini-video-analysis/video.mp4_upload")
+   ![Output Video](video.mp4)
 
 ## **Features**
 
